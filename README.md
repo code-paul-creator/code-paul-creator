@@ -207,7 +207,7 @@ ways to reduce it — all in one self-contained web app.
 I'm always up for talking about AI projects, internships, or just
 trading "why is this bug happening" stories.
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/">
+<a href="https://www.linkedin.com/in/paulami-bhosle/">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/code-paul-creator">
