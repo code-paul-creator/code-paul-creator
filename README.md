@@ -10,7 +10,7 @@
 <!-- Profile views counter -->
 <img src="https://komarev.com/ghpvc/?username=code-paul-creator&label=Profile%20Views&color=58A6FF&style=flat" alt="profile views" />
 &nbsp;
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/">
+<a href="https://www.linkedin.com/in/paulami-bhosle/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
