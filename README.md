@@ -181,8 +181,8 @@ ways to reduce it — all in one self-contained web app.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=code-paul-creator&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-paul-creator&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-paul-creator&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400)](https://github.com/code-paul-creator/code-paul-creator)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-paul-creator&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/code-paul-creator/code-paul-creator)
 
 <br/>
 
