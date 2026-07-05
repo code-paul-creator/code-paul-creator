@@ -180,12 +180,6 @@ ways to reduce it — all in one self-contained web app.
 ## 📊 GitHub Stats
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-paul-creator&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400)](https://github.com/code-paul-creator/code-paul-creator)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-paul-creator&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/code-paul-creator/code-paul-creator)
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-paul-creator&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
