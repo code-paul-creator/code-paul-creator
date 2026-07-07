@@ -21,27 +21,7 @@
 </div>
 
 <br/>
-
-<!--
-  ============================================================
-  HOW TO USE THIS FILE — read this before you delete it
-  ============================================================
-  1. This file only renders on your GitHub HOMEPAGE if it lives in a
-     repo named EXACTLY "code-paul-creator" (same as your username) —
-     not in `_pauls_profile`. Create a new public repo called
-     "code-paul-creator", check "Add a README file", then replace its
-     contents with this one. GitHub auto-detects the special repo and
-     shows this at the top of https://github.com/code-paul-creator.
-  2. Replace every "YOUR-..." placeholder below (LinkedIn handle, email).
-  3. Everything else is wired to your real username and will render
-     automatically once it's live — no other setup needed.
-  4. Delete this comment block once you're happy with it (HTML
-     comments never render on GitHub anyway, so it's safe to leave in
-     too — your call).
-  ============================================================
--->
-
-## 🧭 About Me
+ ## 🧭 About Me
 
 I'm a first-year B.Tech student who'd rather ship something small and
 working than talk about something big and theoretical. I like projects
@@ -60,7 +40,7 @@ class Paulami:
         return "to build things that make someone's day measurably easier"
 ```
 
-- 🔭 Currently building **CityPulse** — an AI decision-intelligence console for city ops
+- 🔭 Currently building **Bhaskar Vision** — AI-driven crop monitoring and irrigation optimization.
 - 🧠 Digging into **mechanistic interpretability** via my `CausalTrace` project
 - 🌱 Learning how to take projects from "works on my laptop" to "works for a real user"
 - 🎯 Goal: an SWE internship where I can learn fast and ship things that matter
