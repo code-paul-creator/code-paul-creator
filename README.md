@@ -22,30 +22,19 @@
 
 <br/>
 
-<!--
-  ============================================================
-  HOW TO USE THIS FILE — read this before you delete it
-  ============================================================
-  1. This file only renders on your GitHub HOMEPAGE if it lives in a
-     repo named EXACTLY "code-paul-creator" (same as your username) —
-     not in `_pauls_profile`. Create a new public repo called
-     "code-paul-creator", check "Add a README file", then replace its
-     contents with this one. GitHub auto-detects the special repo and
-     shows this at the top of https://github.com/code-paul-creator.
-  2. Replace every "YOUR-..." placeholder below (LinkedIn handle, email).
-  3. Everything else is wired to your real username and will render
-     automatically once it's live — no other setup needed.
-  4. Delete this comment block once you're happy with it (HTML
-     comments never render on GitHub anyway, so it's safe to leave in
-     too — your call).
-  ============================================================
--->
+---
  ## 🧭 About Me
 
 I'm a first-year B.Tech student who'd rather ship something small and
 working than talk about something big and theoretical. I like projects
 that sit at the intersection of **AI, real-world data, and decisions
 people actually have to make** — not just demos.
+
+<p align="center">
+  <a href="https://github.com/code-paul-creator/paulami-portfolio">
+    <img src="https://img.shields.io/badge/🌐%20View%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
 ```python
 class Paulami:
