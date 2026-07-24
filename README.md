@@ -31,7 +31,7 @@ that sit at the intersection of **AI, real-world data, and decisions
 people actually have to make** — not just demos.
 
 <p align="center">
-  <a href="https://github.com/code-paul-creator/paulami-portfolio">
+  <a href="https://code-paul-creator.github.io/paulami-portfolio/">
     <img src="https://img.shields.io/badge/🌐%20View%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
   </a>
 </p>
